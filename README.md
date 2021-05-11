@@ -127,3 +127,5 @@ X-WINDOW=라이브러리
 사용 및 컨트리뷰션 문의 사항은 아래로 연락바랍니다. 
 - 한주승 : joosing711@gmail.com
 - 강민우 : mwii@me.com
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJsing%2Fquick-auto-sps&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
