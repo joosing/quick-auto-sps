@@ -123,9 +123,6 @@ X-WINDOW=라이브러리
 6.  정상 컴파일 완료 시 /Release/Output/ 경로에 Install 파일이 생성된다. 
 7.  생성된 Install 파일과 저장소 전체 압축 파일을 GitHub Release 탭에 업로드 합니다.
 
-## 컨트리뷰션 가이드 
-- 추후 작성 예정.
-
 ## 라이선스 
 - QuickAutoSps 프로젝트는 GNU Lesser General Public License 2.1 라이선스를 적용합니다. 자세한 내용은 LICENSE 파일을 참조하십시요.
 
