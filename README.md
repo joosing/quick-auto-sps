@@ -1,7 +1,8 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJsing%2Fquick-auto-sps&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 퍼스텍이란 회사에 재직중일 때 https://github.com/FirstecRepo/QuickAutoSps 프로젝트를 만들었습니다. 퇴사 이후 저 이외에는 해당 저장소를 관리하지 않을뿐 아니라, 저도 해당 메일 주소에 접근할 수 없는 유령 저장소가 되어 21.05.10일 자로 개인  생성하여 관리합니다.
 
 ## 개요
-
 QuickAutoSps는 무기체계 소프트웨어 개발 시 방위사업청에서 요구하는 소프트웨어 산출물 명세서(Software Product Specification)의 실행파일 목록 및 원본(소스)파일 목록을 빠르게 자동으로 생성해 주는 솔루션입니다. 소프트웨어 산출물 명세서 양식은 /Doc/SPS_format.hwp 파일에서 확인할 수 있습니다. QuickAutoSps는 해당 양식의 표10 실행파일 목록 및 표12 원본(소스) 목록을 양식에 맞게 자동으로 생성해 줍니다. 소개 동영상을 ['https://youtu.be/MvcIeh6vrOg'](<https://youtu.be/Dy56aOQta_0>)에서 확인 할 수 있습니다.
 
 [![IMAGE ALT TEXT HERE](./Doc/QuickAutoSps_Movie_Snapshot.jpg)](https://youtu.be/Dy56aOQta_0)
@@ -127,5 +128,3 @@ X-WINDOW=라이브러리
 사용 및 컨트리뷰션 문의 사항은 아래로 연락바랍니다. 
 - 한주승 : joosing711@gmail.com
 - 강민우 : mwii@me.com
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJsing%2Fquick-auto-sps&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
