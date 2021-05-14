@@ -1,5 +1,3 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJsing%2Fquick-auto-sps&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 퍼스텍이란 회사에 재직중일 때 https://github.com/FirstecRepo/QuickAutoSps 프로젝트를 만들었습니다. 퇴사 이후 저 이외에는 해당 저장소를 관리하지 않을뿐 아니라, 저도 해당 메일 주소에 접근할 수 없는 유령 저장소가 되어 21.05.10일 자로 개인  생성하여 관리합니다.
 
 ## 개요
